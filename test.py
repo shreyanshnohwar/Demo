@@ -6,3 +6,7 @@ def main():
     prin_1()
     result = add(5, 3)
     print("The result of addition is:", result)
+def palindorme():
+    print("This is a palindrome function")
+def data():
+    print("This is a data function")
