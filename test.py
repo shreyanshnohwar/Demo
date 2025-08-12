@@ -10,3 +10,7 @@ def palindorme():
     print("This is a palindrome function")
 def data():
     print("This is a data function")
+def fetch():
+    print("My code got fetch")
+def child():
+    print("You all are my children")
