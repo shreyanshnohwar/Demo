@@ -14,3 +14,7 @@ def fetch():
     print("My code got fetch")
 def child():
     print("You all are my children")
+def child1():
+    print("You all are my children 1")
+def child2():
+    print("You all are my children 2")
